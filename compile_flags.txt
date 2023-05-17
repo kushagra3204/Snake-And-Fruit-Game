@@ -1,0 +1,4 @@
+-IC:\Users\Kushagra Agarwal\Documents\KushagraWorkspace\Snake-And-Fruit-Game
+-std=c++17
+-target
+
